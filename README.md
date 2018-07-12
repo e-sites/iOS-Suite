@@ -3,7 +3,7 @@
 > An overview of all the iOS (Swift) related repositories within our 'own' periodic system
 
 
-![Period system](Assets/system.png?)
+![Period system](Assets/system.png?01)
 
 
 **🤷‍♂️ Why on earth do you use the periodic system?**   
@@ -35,3 +35,9 @@ Just because.
 > Deallocation helper for runtime objects
 
 🔗 **[e-sites/Dysprosium](https://github.com/e-sites/Dysprosium)**
+
+
+## `F` → Fluorine
+> A small UIView helper to create simple linear gradients.
+
+🔗 **[e-sites/Fluorine](https://github.com/e-sites/Fluorine)**
