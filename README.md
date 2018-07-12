@@ -3,7 +3,7 @@
 > An overview of all the iOS (Swift) related repositories within our 'own' periodic system
 
 
-![Period system](Assets/system.png?01)
+![Period system](Assets/system.png?002)
 
 
 **🤷‍♂️ Why on earth do you use the periodic system?**   
@@ -41,3 +41,9 @@ Just because.
 > A small UIView helper to create simple linear gradients.
 
 🔗 **[e-sites/Fluorine](https://github.com/e-sites/Fluorine)**
+
+
+## `Bh` → Bohrium
+> A small helper class to benchmark specific code parts at runtime
+
+🔗 **[e-sites/Bohrium](https://github.com/e-sites/Bohrium)**
