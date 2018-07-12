@@ -13,6 +13,11 @@ Just because.
 
 **The suite** (_In order of release_):
 
+## `Bt` → Bluetonium 
+> Bluetonium is a Swift Library that makes it easy to communicate with Bluetooth devices.
+
+🔗 **[e-sites/Bluetonium](https://github.com/e-sites/Bluetonium)**
+
 ## `Na` → Natrium 
 > A pre-build (Swift) script to alter your Xcode project at build-time per environment and build configuration.
 
