@@ -58,3 +58,9 @@ Just because.
 > A lightweight commandline tool to automatically generate strong-typed images
 
 🔗 **[e-sites/Radon](https://github.com/e-sites/Radon)**
+
+
+## `Fr` → Francium
+> A small library to use for your file system.
+
+🔗 **[e-sites/Francium](https://github.com/e-sites/Francium)**
