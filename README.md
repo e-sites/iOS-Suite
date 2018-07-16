@@ -64,3 +64,9 @@ Just because.
 > A small library to use for your file system.
 
 🔗 **[e-sites/Francium](https://github.com/e-sites/Francium)**
+
+
+## `Er` → Erbium
+> Light weight tool for detecting the current device's capabilities.
+
+🔗 **[e-sites/Erbium](https://github.com/e-sites/Erbium)**
