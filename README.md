@@ -3,7 +3,7 @@
 > An overview of all the iOS (Swift) related repositories within our 'own' periodic system
 
 
-![Period system](Assets/system.png?002)
+![Period system](Assets/system.png?010)
 
 
 **🤷‍♂️ Why on earth do you use the periodic system?**   
@@ -70,3 +70,9 @@ Just because.
 > Light weight tool for detecting the current device's capabilities.
 
 🔗 **[e-sites/Erbium](https://github.com/e-sites/Erbium)**
+
+
+## `Es` → Einsteinium
+> A collection of swift extensions.
+
+🔗 **[e-sites/Einsteinium](https://github.com/e-sites/Einsteinium)**
