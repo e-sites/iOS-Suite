@@ -76,3 +76,10 @@ Just because.
 > A collection of swift extensions.
 
 🔗 **[e-sites/Einsteinium](https://github.com/e-sites/Einsteinium)**
+
+
+## `Li` → Lithium
+_The_ E-sites logging framework.
+
+🔗 **[e-sites/Lithium](https://github.com/e-sites/Lithium)**
+
