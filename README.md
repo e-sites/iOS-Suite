@@ -83,3 +83,10 @@ _The_ E-sites logging framework.
 
 🔗 **[e-sites/Lithium](https://github.com/e-sites/Lithium)**
 
+## `Bi` → Bismuth
+A lightweight framework to handle queues
+
+🔗 **[e-sites/Bismuth](https://github.com/e-sites/Bismuth)**
+
+
+
