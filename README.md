@@ -88,5 +88,10 @@ A lightweight framework to handle queues
 
 🔗 **[e-sites/Bismuth](https://github.com/e-sites/Bismuth)**
 
+## `Al` → Aluminum
+Applying the robot pattern to your UI XCTests
+
+🔗 **[e-sites/Aluminum](https://github.com/e-sites/Aluminum)**
+
 
 
