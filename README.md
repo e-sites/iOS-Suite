@@ -3,7 +3,7 @@
 > An overview of all the iOS (Swift) related repositories within our 'own' periodic system
 
 
-![Period system](Assets/system.png?010)
+![Period system](Assets/system.png?011)
 
 
 **🤷‍♂️ Why on earth do you use the periodic system?**   
@@ -98,3 +98,9 @@ Applying the robot pattern to your UI XCTests
 A small helper class for localization
 
 🔗 **[e-sites/Dupnium](https://github.com/e-sites/Dupnium)**
+
+
+## `Og` → Oganesson
+A small swift helper class for using an ObjectPool
+
+🔗 **[e-sites/Oganesson](https://github.com/e-sites/Oganesson)**
